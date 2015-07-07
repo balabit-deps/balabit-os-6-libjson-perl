@@ -1,0 +1,3 @@
+# needs JSON:PP, in Suggests (although it's in perl core as well, but
+# otherwise all tests are kipped)
+JSON/backportPP.pm
